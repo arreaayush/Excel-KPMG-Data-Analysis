@@ -40,6 +40,7 @@ The project uses four main datasets:
 
 ### 6. Executive Summary & Recommendations
 - Summarized key findings.
+
 - Provided strategic recommendations for marketing and expansion.
 
 ## 📊 Tools Used
